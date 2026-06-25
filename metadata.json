@@ -1,0 +1,6 @@
+{
+  "name": "Image Animator",
+  "description": "Animate still images into videos using Veo video generations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
